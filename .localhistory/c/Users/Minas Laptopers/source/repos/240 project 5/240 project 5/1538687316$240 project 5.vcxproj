@@ -118,7 +118,6 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="prob2.h" />
     <ClInclude Include="prob3.h" />
     <ClInclude Include="prob4.h" />
   </ItemGroup>

@@ -7,7 +7,6 @@ int main() {
 
 	//assembly();
 	//MassonPark();
-	pin();
 	system("pause");
 	return 0;
 }

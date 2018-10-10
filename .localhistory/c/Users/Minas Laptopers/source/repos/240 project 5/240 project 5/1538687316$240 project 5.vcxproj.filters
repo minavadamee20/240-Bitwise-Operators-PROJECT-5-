@@ -26,8 +26,5 @@
     <ClInclude Include="prob3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="prob2.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
